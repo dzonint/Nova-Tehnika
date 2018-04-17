@@ -1,0 +1,15 @@
+C:\Users\TDD\Documents\Visual Studio 2015\Projects\NovaTehnika\NovaTehnika\bin\Debug\NovaTehnika.exe.config
+C:\Users\TDD\Documents\Visual Studio 2015\Projects\NovaTehnika\NovaTehnika\bin\Debug\NovaTehnika.exe
+C:\Users\TDD\Documents\Visual Studio 2015\Projects\NovaTehnika\NovaTehnika\bin\Debug\NovaTehnika.pdb
+C:\Users\TDD\Documents\Visual Studio 2015\Projects\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.frmMeni.resources
+C:\Users\TDD\Documents\Visual Studio 2015\Projects\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.Properties.Resources.resources
+C:\Users\TDD\Documents\Visual Studio 2015\Projects\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.csproj.GenerateResource.Cache
+C:\Users\TDD\Documents\Visual Studio 2015\Projects\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.exe
+C:\Users\TDD\Documents\Visual Studio 2015\Projects\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.pdb
+C:\Users\TDD\Documents\Visual Studio 2015\Projects\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.frmPorudzbine.resources
+C:\Users\TDD\Documents\Visual Studio 2015\Projects\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.frmDetaljiPorudzbine.resources
+C:\Users\TDD\Documents\Visual Studio 2015\Projects\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.frmProizvodi.resources
+C:\Users\TDD\Documents\Visual Studio 2015\Projects\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.frmStanjaPorudzbina.resources
+C:\Users\TDD\Documents\Visual Studio 2015\Projects\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.frmKategorije.resources
+C:\Users\TDD\Documents\Visual Studio 2015\Projects\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.frmDostavljaci.resources
+C:\Users\TDD\Documents\Visual Studio 2015\Projects\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.csprojResolveAssemblyReference.cache
